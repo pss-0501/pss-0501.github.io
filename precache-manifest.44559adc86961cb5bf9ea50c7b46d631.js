@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ae94fd3d30ecf9aded2b742c9f9ec75",
+    "revision": "34d469d3a6719bc4333a29837a3e1e81",
     "url": "/index.html"
   },
   {
-    "revision": "d933d56b7c82b10bbfa6",
-    "url": "/static/css/3.811b0c92.chunk.css"
+    "revision": "2b51dbcf4869a2143136",
+    "url": "/static/css/3.ef404bfa.chunk.css"
   },
   {
-    "revision": "3bde026688945773cdad",
-    "url": "/static/css/4.d39609a2.chunk.css"
+    "revision": "763d409ef3839ab217b2",
+    "url": "/static/css/4.5bb26e87.chunk.css"
   },
   {
-    "revision": "1397f156a21bd1e57891",
-    "url": "/static/css/main.0446f1be.chunk.css"
+    "revision": "7beff4d2bde6cede67bb",
+    "url": "/static/css/main.005abcff.chunk.css"
   },
   {
-    "revision": "53401aaefea21059dbbd",
-    "url": "/static/js/2.4acac5e5.chunk.js"
+    "revision": "6c90c9345ce376d12be9",
+    "url": "/static/js/2.c5b8513b.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.4acac5e5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c5b8513b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d933d56b7c82b10bbfa6",
-    "url": "/static/js/3.0649cc98.chunk.js"
+    "revision": "2b51dbcf4869a2143136",
+    "url": "/static/js/3.e2450f22.chunk.js"
   },
   {
-    "revision": "3bde026688945773cdad",
-    "url": "/static/js/4.4410ea72.chunk.js"
+    "revision": "763d409ef3839ab217b2",
+    "url": "/static/js/4.2997b03a.chunk.js"
   },
   {
-    "revision": "1397f156a21bd1e57891",
-    "url": "/static/js/main.3a4171ed.chunk.js"
+    "revision": "7beff4d2bde6cede67bb",
+    "url": "/static/js/main.0a2cfc77.chunk.js"
   },
   {
-    "revision": "e1dc42c1f20b43578cbc",
-    "url": "/static/js/runtime-main.30d5705a.js"
+    "revision": "8db20a97eb82cfc0f074",
+    "url": "/static/js/runtime-main.086f9980.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "9f380d740dd980092310c1d541431cbf",
+    "url": "/static/media/Programming, data structures and algorithms using python.9f380d74.jpg"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
