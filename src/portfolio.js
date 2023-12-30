@@ -55,8 +55,8 @@ const skillsSection = {
   subTitle: "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Skilled in ASP.NET & MERN Stack + (SQL and No SQL) Based Databases"),
-    emoji("⚡ Learning and advancing myself on latest tech stacks"),
-    emoji("⚡ Familiar In - C#, JavaScript, Python, React.js")
+    emoji("⚡ I take great pride in crafting exceptional digital experiences and have had the opportunity to work on a variety of exciting projects throughout my career."),
+    emoji("⚡ Familiar In - C#, JavaScript, Python, React.js, SQL")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -299,20 +299,21 @@ const achievementSection = {
           url: "https://www.udemy.com/certificate/UC-b083ebbe-2056-4a6d-8af5-191aba25cb41/"
         }
       ]
+    },
+    {
+      title: "Programming, Data Structures and Algorithms using python",
+      subtitle:
+        "Issued SEP 2017 · No Expiration Date",
+      image: require("./assets/images/Programming, data structures and algorithms using python.jpg"),     //"https://ibb.co/Gdfcwp6.jpg",
+      imageAlt: "Python Certificate",
+      showImage: true,
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1SYCu-K4L_goq5afZX8rnAocb8WLYputA/view?usp=sharing"
+        }
+      ]
     }
-    // {
-    //   title: "Project Management Interview Preparation - Get a Job as a PM",
-    //   subtitle:
-    //     "Issued DEC 2023 · No Expiration Date",
-    //   image: "https://udemy-certificate.s3.amazonaws.com/image/UC-f8b3e4f0-565f-466b-b9b7-809270e25872.jpg?v=1655226570000",
-    //   imageAlt: "Project Management",
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://www.udemy.com/certificate/UC-b083ebbe-2056-4a6d-8af5-191aba25cb41/"
-    //     }
-    //   ]
-    // }
 
     // {
     //   title: "PWA Web App Developer",
