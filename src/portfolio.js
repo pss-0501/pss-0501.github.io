@@ -24,7 +24,10 @@ const greeting = {
   title: "Hi all, I'm Prathamesh Sawant",
   subTitle: [
     emoji(
-      "Skilled Software Engineer with 3 Years of demonstrated history of working with ASP.NET Stack with React, NodeJS, MongoDB and SQL."
+      "I am currently located in New York, USA. Open to Internship opportunities for summer 2024 in Software Engineering, Software Development, Web Development and Data Science roles."
+    ),
+    emoji(
+      "I am proficient in JavaScript, Python, C#, etc., and also have experience building projects on different JavaScript libraries/frameworks like React, Asp.Net, Node.js, etc."
     ),
     emoji(
       "Strong Engineering Professional with a Master's Degree focused in Information Systems from State University of New York at Binghamton University."
@@ -52,8 +55,8 @@ const skillsSection = {
   subTitle: "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Skilled in ASP.NET & MERN Stack + (SQL and No SQL) Based Databases"),
-    emoji("⚡ Integration of third party services such as AWS"),
-    emoji("⚡ Familiar In - C#, JavaScript, Python, Java")
+    emoji("⚡ Learning and advancing myself on latest tech stacks"),
+    emoji("⚡ Familiar In - C#, JavaScript, Python, React.js")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -81,8 +84,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "docker",
@@ -165,7 +168,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Nexsus Solutions",
-      //companylogo: "https://i.ibb.co/f8Qw6dT/bs.png",
+      companylogo: "https://i.ibb.co/pwr6vq0/download.jpg",
       date: "Dec 2021 - Jul 2023",
       //desc: "Worked in Device Features Team.",
       descBullets: [
