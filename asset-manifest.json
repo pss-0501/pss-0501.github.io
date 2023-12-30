@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0446f1be.chunk.css",
+    "main.js": "/static/js/main.5c98c958.chunk.js",
+    "main.js.map": "/static/js/main.5c98c958.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30d5705a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30d5705a.js.map",
+    "static/js/2.4acac5e5.chunk.js": "/static/js/2.4acac5e5.chunk.js",
+    "static/js/2.4acac5e5.chunk.js.map": "/static/js/2.4acac5e5.chunk.js.map",
+    "static/css/3.811b0c92.chunk.css": "/static/css/3.811b0c92.chunk.css",
+    "static/js/3.0649cc98.chunk.js": "/static/js/3.0649cc98.chunk.js",
+    "static/js/3.0649cc98.chunk.js.map": "/static/js/3.0649cc98.chunk.js.map",
+    "static/css/4.d39609a2.chunk.css": "/static/css/4.d39609a2.chunk.css",
+    "static/js/4.4410ea72.chunk.js": "/static/js/4.4410ea72.chunk.js",
+    "static/js/4.4410ea72.chunk.js.map": "/static/js/4.4410ea72.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.90a3bd6216648f60e2443198d66fb4da.js": "/precache-manifest.90a3bd6216648f60e2443198d66fb4da.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.811b0c92.chunk.css.map": "/static/css/3.811b0c92.chunk.css.map",
+    "static/css/4.d39609a2.chunk.css.map": "/static/css/4.d39609a2.chunk.css.map",
+    "static/css/main.0446f1be.chunk.css.map": "/static/css/main.0446f1be.chunk.css.map",
+    "static/js/2.4acac5e5.chunk.js.LICENSE.txt": "/static/js/2.4acac5e5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d5705a.js",
+    "static/js/2.4acac5e5.chunk.js",
+    "static/css/main.0446f1be.chunk.css",
+    "static/js/main.5c98c958.chunk.js"
+  ]
+}
